@@ -10,8 +10,11 @@ const students = {
   "McKell H": ["https://final-project-cs.mckellhardman.repl.co"],
   "Alan M": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3"],
   "Gibson T": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3"],
+  "Logan H":["https://bean-jumper.dunkteam42.repl.co/"],
   "Neeve R": ["https://platform-jumping.zebra06.repl.co/"],
   "Lucy G": ["https://1919-Game.lucygolden.repl.co"],
+  "Eleanor A" : ["https://Cool-Thing.coolcello.repl.co"],
+  "Amy R": ["https://final-project.amyyr21.repl.co/"],
 };
 
 const studentsSorted = Object.keys(students)
