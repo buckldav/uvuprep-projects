@@ -1,5 +1,5 @@
 const students = {
-  "Blake A": ["https://replit.com/@whassuppal/CYOA-FINAL?v=1"],
+  "Blake A": ["https://replit.com/@whassuppal/CYOA-FINAL"],
   "Ty N": ["https://2vs5qo.csb.app/"],
   "Atticus R": ["https://final-project-cs.mckellhardman.repl.co"],
   "Abby H": ["https://replit.com/@Abbers/CYOA-p5#script.js"],
@@ -16,7 +16,7 @@ const students = {
   "Isaac H": ["https://Tank-game2.tristan646.repl.co"],
   "Jaxon D": ["https://Final-project-JETPACK-BOIRIDE.jaquaviondamark.repl.co"],
   "Owen C":["https://quandale-dingle-escape.orcowles.repl.co/"],
-  "Xane C": ["https://replit.com/@mc0398971/Game-JIC?v=1"],
+  "Xane C": ["https://replit.com/@mc0398971/Game-JIC"],
   "Lucy G": ["https://1919-Game.lucygolden.repl.co"],
   "Eleanor A" : ["https://Cool-Thing.coolcello.repl.co"],
   "Amy R": ["https://final-project.amyyr21.repl.co/"],
