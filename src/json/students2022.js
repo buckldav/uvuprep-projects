@@ -11,6 +11,7 @@ const students = {
   "Alan M": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3"],
   "Gibson T": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3"],
   "Neeve R": ["https://platform-jumping.zebra06.repl.co/"],
+  "Owen C":["https://quandale-dingle-escape.orcowles.repl.co/"],v
 };
 
 const studentsSorted = Object.keys(students)
