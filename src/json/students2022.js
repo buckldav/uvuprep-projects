@@ -12,6 +12,7 @@ const students = {
   "Gibson T": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3"],
   "Logan H":["https://bean-jumper.dunkteam42.repl.co/"],
   "Neeve R": ["https://platform-jumping.zebra06.repl.co/"],
+  "Xane C": [https://replit.com/@mc0398971/Game-JIC?v=1],
   "Lucy G": ["https://1919-Game.lucygolden.repl.co"],
   "Eleanor A" : ["https://Cool-Thing.coolcello.repl.co"],
   "Amy R": ["https://final-project.amyyr21.repl.co/"],
