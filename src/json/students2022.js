@@ -10,6 +10,7 @@ const students = {
   "McKell H": ["https://final-project-cs.mckellhardman.repl.co"],
   "Alan M": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3"],
   "Gibson T": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3"],
+  "Logan H":["https://bean-jumper.dunkteam42.repl.co/"],
 };
 
 const studentsSorted = Object.keys(students)
